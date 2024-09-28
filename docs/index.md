@@ -18,6 +18,7 @@ layout: default
     <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
     <li><a href=#Image-Matching>Image Matching</a></li>
     <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#BarCode>BarCode</a></li>
   </ol>
 </details>
 
@@ -3922,6 +3923,14 @@ layout: default
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741v2](http://arxiv.org/abs/2207.14741v2)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
+
+<p align=right>(<a href=#Updated-on-20240928>back to top</a>)</p>
+
+## BarCode
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2011-08-16**|**A Binary Shaped Mask Coronagraph for a Segmented Pupil**|K. Enya et.al.|[1108.3152v1](http://arxiv.org/abs/1108.3152v1)|null|
 
 <p align=right>(<a href=#Updated-on-20240928>back to top</a>)</p>
 
