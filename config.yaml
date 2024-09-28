@@ -12,17 +12,7 @@ publish_gitpage: True
 publish_wechat: False
 
 keywords:
-    "SLAM": 
-        filters: ["SLAM"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "QRCode": 
+        filters:["Multi QRCode", "QRCode segmintation"]
+    "bar code":
+        filters: ["Multi barcode", "barCode segmintation"]
