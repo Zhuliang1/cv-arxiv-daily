@@ -13,6 +13,6 @@ publish_wechat: False
 
 keywords:
     "QRCode": 
-        filters:["Multi QRCode", "QRCode segmintation"]
-    "bar code":
-        filters: ["Multi barcode", "barCode segmintation"]
+        filters: ["Multi QRCode", "QRCode segmintation"]
+    "BarCode":
+        filters: ["Multi BarCode", "BarCode segmintation"]
